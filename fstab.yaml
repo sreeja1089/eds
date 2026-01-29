@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://drive.google.com/drive/folders/18Of8BhjjCgN-FK7bMOq6KZdu3FUdvQ9w"
+    type: "markup"
+    suffix: ".html"
